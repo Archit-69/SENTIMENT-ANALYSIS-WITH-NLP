@@ -159,9 +159,12 @@ text	                label
 If your column names are different, update the notebook accordingly.
 -------------------------------------------------------------------------------------
 
+**Author**
+
 * Company: CODTECH IT SOLUTIONS
 * Name: Archit kapre
 * Intern ID:CT04DR999
 * Domain: Machine learning 
 * Duration: 4 weeks
 * Mentor: Neela Santosh
+
