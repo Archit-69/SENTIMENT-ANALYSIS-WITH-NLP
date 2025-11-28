@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+joblib
+nltkpandas
+numpy
+scikit-learn
+jupyter
+matplotlib
+joblib
+pytest
