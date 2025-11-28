@@ -140,11 +140,11 @@ print(prediction)
 
 Output:
 
-```
-[1]  → Positive
-```
 
----
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/c822ebb4-631c-497f-a719-6a1e0082433e" />
+
+
+------------------------------------------------------------
 
 # 📝 Notes
 
@@ -167,4 +167,5 @@ If your column names are different, update the notebook accordingly.
 * Domain: Machine learning 
 * Duration: 4 weeks
 * Mentor: Neela Santosh
+
 
