@@ -148,24 +148,20 @@ Output:
 
 # 📝 Notes
 
-* Your dataset **must** have these columns:
-
-  | text           | label |
-  | -------------- | ----- |
-  | "Good product" | 1     |
-  | "Very bad"     | 0     |
-
-* If your column names are different, update the notebook accordingly.
-
----
-
-If you want, I can also create:
-✅ A professional Internship PDF Report
-✅ A beautiful GitHub project cover image
-✅ A full README with images & badges
-
-Just tell me!
+✅ 7. Make sure your dataset is correct
 
 
 
+text	                label
+"I love this product"=	1
+"Worst service ever" =	0
 
+If your column names are different, update the notebook accordingly.
+-------------------------------------------------------------------------------------
+
+* Company: CODTECH IT SOLUTIONS
+* Name: Archit kapre
+* Intern ID:CT04DR999
+* Domain: Machine learning 
+* Duration: 4 weeks
+* Mentor: Neela Santosh
